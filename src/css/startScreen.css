@@ -1,7 +1,7 @@
 body{
     height: 100vh;
     font-family: var(--mainFont);
-    background-image: url("/assets/startBackground.jpg");
+    background-image: url("https://github.com/luanalima77/teste/blob/main/assets/background.jpg");
     background-size: cover;
     background-position: top;
     background-repeat: no-repeat;
