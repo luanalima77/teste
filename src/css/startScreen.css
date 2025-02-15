@@ -35,3 +35,17 @@ body{
     font-family: var(--mainFont);
     font-size: 1.5rem;
 }
+
+#startScreenMainContentStartButton {
+       background-image: url("assets/botões/botao_start_preto.png");
+        background-position: 0 0;
+        width: 128px;
+        height: 64px;
+        border: none;
+        cursor: pointer;
+        background-color: transparent;
+        scale: 2.0;
+        animation: pulse 1.5s infinite ease-in-out;
+        box-shadow: 0 0 1px rgba(0, 0, 0, 0);     
+}
+
